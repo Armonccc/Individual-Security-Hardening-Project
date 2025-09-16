@@ -1,7 +1,7 @@
-# Individual-Security-Hardening-Project
+# Individual Security Hardening Project
 Individual Project for CIS 221 - Server Security Hardening, Real-World Threats, Policies, and Incident Response
 
-Project: Individual Server Hardening
+**Project: Individual Server Hardening**
 
 Independently implemented and demonstrated fundamental security hardening techniques on a server environment. The project involved:
 
@@ -17,5 +17,5 @@ Independently implemented and demonstrated fundamental security hardening techni
 
 This project provided practical experience in server hardening, security policy development, and proactive threat mitigation.
 
-Software/Hardware: Linux, VirtualBox, and Ubuntu
+**Software/Hardware:** Linux, VirtualBox, and Ubuntu
 
