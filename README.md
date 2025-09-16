@@ -19,3 +19,5 @@ This project provided practical experience in server hardening, security policy 
 
 **Software/Hardware:** Linux, VirtualBox, and Ubuntu
 
+**Note:** All important or sensitive information has been either censored (using a blue rectangle) or replaced.
+
